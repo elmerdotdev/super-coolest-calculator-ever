@@ -1,6 +1,6 @@
 {
   "name": "@jrbalbin/super-coolest-calculator-ever",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "This is the coolest and the best calculator out there. Can handle crazy calculations.",
   "main": "index.js",
   "scripts": {
