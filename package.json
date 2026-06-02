@@ -1,0 +1,13 @@
+{
+  "name": "@jrbalbin/super-coolest-calculator-ever",
+  "version": "1.2.0",
+  "description": "This is the coolest and the best calculator out there. Can handle crazy calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elmer Balbin",
+  "license": "ISC",
+  "type": "commonjs"
+}
