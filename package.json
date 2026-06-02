@@ -11,7 +11,10 @@
     "url": "https://github.com/elmerdotdev/super-coolest-calculator-ever"
   },
   "homepage": "https://supercoolcalculator.com",
-  "keywords": [],
+  "keywords": [
+    "elmer calculator",
+    "super calculator"
+  ],
   "author": "Elmer Balbin",
   "license": "ISC",
   "type": "commonjs"
